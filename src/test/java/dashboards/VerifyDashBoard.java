@@ -25,7 +25,4 @@ public class VerifyDashBoard extends BaseClass{
     	commonActions.navigateToModule("Work Orders");
     	
     }
-    
-    //check my comment
-    
 }
